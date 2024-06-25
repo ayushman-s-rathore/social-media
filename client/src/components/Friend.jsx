@@ -56,7 +56,6 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
             sx={{
               "&:hover": {
                 color: palette.primary.light,
-                cursor: "pointer",
               },
             }}
           >
